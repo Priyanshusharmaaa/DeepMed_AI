@@ -1,5 +1,5 @@
-DeepMed AI – Multimodal Medical Imaging & Diagnostic Report Assistant
-📌 Overview
+**DeepMed AI – Multimodal Medical Imaging & Diagnostic Report Assistant**
+
 DeepMed AI is an end-to-end medical imaging platform that assists clinicians by:
 
 Analyzing chest X-ray images using pre-trained deep learning models.
